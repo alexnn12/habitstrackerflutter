@@ -1,0 +1,13 @@
+{
+  "login_frase": "Sigue tus hábitos con Notion",
+  "login_continue": "Continue with Google",
+  "habits_menu_refresh": "Refrescar",
+  "habits_menu_add": "Agregar hábito",
+  "habits_menu_stats": "Estadisticas",
+  "habits_menu_contact": "Contactar",
+  "habits_menu_logout": "Logout",
+  "habits_menu_alert": "Para agregar un hábito, le recomendamos usar la versión web. La app es solo para seguir tus hábitos.",
+  "habits_menu_alert_close": "Cerrar",
+  "habits_menu_alert_goto": "Ir a la web",
+  "habits_menu_alert_stats": "Le recomendamos usar la versión web para ver sus estadísticas. La app es solo para seguir sus hábitos."
+}

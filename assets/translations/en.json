@@ -1,0 +1,13 @@
+{
+  "login_frase": "Track your habits with Notion",
+  "login_continue": "Continue with Google",
+  "habits_menu_refresh": "Refresh",
+  "habits_menu_add": "Add habit",
+  "habits_menu_stats": "Stats",
+  "habits_menu_contact": "Contact",
+  "habits_menu_logout": "Logout",
+  "habits_menu_alert": "To add a habit, we recommend you to use the web version in your computer. The app is only for tracking your habits.",
+  "habits_menu_alert_close": "Close",
+  "habits_menu_alert_goto": "Go to web version",
+  "habits_menu_alert_stats": "We recommend you to use the web version in your computer to see your stats. The app is only for tracking your habits."
+}
