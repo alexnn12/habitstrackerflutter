@@ -3,7 +3,7 @@
 ## About
 HabitsApp is an open-source habit tracking application that leverages Supabase for backend services. This project is built using Flutter, making it a cross-platform app that runs on both Android and iOS devices.
 
-![HabitsApp Screenshot](https://github.com/alexnn12/HabitsApp/blob/main/habitsapp.png?raw=true)   
+![HabitsApp Screenshot](https://github.com/alexnn12/habitstrackerflutter/blob/main/habitsapp.png?raw=true)   
 
 ## Features
 - **Habit Tracking:** Users can track their daily habits.
